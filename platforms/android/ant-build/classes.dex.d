@@ -1,0 +1,20 @@
+D:\study\cordova\Locator\platforms\android\ant-build\classes.dex : \
+D:\study\cordova\Locator\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\NfcPlugin$1.class \
+D:\study\cordova\Locator\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\NfcPlugin$2.class \
+D:\study\cordova\Locator\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\NfcPlugin$3.class \
+D:\study\cordova\Locator\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\NfcPlugin$4.class \
+D:\study\cordova\Locator\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\NfcPlugin$5.class \
+D:\study\cordova\Locator\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\NfcPlugin$6.class \
+D:\study\cordova\Locator\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\NfcPlugin$7.class \
+D:\study\cordova\Locator\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\NfcPlugin$8.class \
+D:\study\cordova\Locator\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\NfcPlugin.class \
+D:\study\cordova\Locator\platforms\android\ant-build\classes\com\chariotsolutions\nfc\plugin\Util.class \
+D:\study\cordova\Locator\platforms\android\ant-build\classes\com\example\locator\BuildConfig.class \
+D:\study\cordova\Locator\platforms\android\ant-build\classes\com\example\locator\Locator.class \
+D:\study\cordova\Locator\platforms\android\ant-build\classes\com\example\locator\R$attr.class \
+D:\study\cordova\Locator\platforms\android\ant-build\classes\com\example\locator\R$drawable.class \
+D:\study\cordova\Locator\platforms\android\ant-build\classes\com\example\locator\R$string.class \
+D:\study\cordova\Locator\platforms\android\ant-build\classes\com\example\locator\R$xml.class \
+D:\study\cordova\Locator\platforms\android\ant-build\classes\com\example\locator\R.class \
+D:\study\cordova\Locator\platforms\android\ant-build\classes\org\apache\cordova\api\Dummy.class \
+D:\study\cordova\Locator\platforms\android\ant-build\dexedLibs\classes-73e368183f954cf0a47714028e6a0283.jar \
